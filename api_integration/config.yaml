@@ -1,0 +1,8 @@
+postgres:
+  host: localhost
+  database: market_data
+  user: your_username
+  password: your_password
+
+alpha_vantage:
+  api_key: your_alpha_vantage_api_key
